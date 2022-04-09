@@ -15,6 +15,7 @@ client_scripts {
 	'@PolyZone/ComboZone.lua',
 	'init.lua',
 	'client.lua',
+	'targets.lua'
 }
 
 files {
